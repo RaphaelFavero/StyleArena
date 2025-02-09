@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Style Arena</string>
+    <string name="style_picture_prompt">Time to take your Daily Style Picture</string>
+    <string name="win_prizes_prompt">And get a chance to win prizes from our partner brands.</string>
+    <string name="capture_style_button">Capture Today\'s Style</string>
+    <string name="choose_favorite_style">Who\'s Style Arena member\'s style do you prefer ?</string>
+    <string name="vote">Vote</string>
+    <string name="today_winners">Today\'s Winners</string>
+    <string name="gold_medal">Gold Medal</string>
+    <string name="silver_medal">Silver Medal</string>
+    <string name="bronze_medal">Bronze Medal</string>
+    <string name="request_error">Sorry, we could\'nt process your request.</string>
+    <string name="retry">Retry</string>
+</resources>
